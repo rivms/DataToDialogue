@@ -5,3 +5,5 @@
 🎥 For an end-to-end demo of the project in action, [watch the video here](https://github.com/FranGenoa/DataToDialogue/raw/main/End-to-End%20Demo/EndToEndDataToDialogue.mp4).
 
 🧠 Explore the code behind the workflow [here](https://github.com/FranGenoa/DataToDialogue/blob/main/Code/DataToDialogueAgenticWorkflow.ipynb).
+
+🎧 Listen to an example of a PBI report podcast [here](https://github.com/FranGenoa/DataToDialogue/blob/main/Assets/Data_to_Dialogue_WAV_File_Outcome.mov).
