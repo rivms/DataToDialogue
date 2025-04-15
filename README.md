@@ -6,4 +6,4 @@
 
 🧠 Explore the code behind the workflow [here](https://github.com/FranGenoa/DataToDialogue/blob/main/Code/DataToDialogueAgenticWorkflow.ipynb).
 
-🎧 Listen to an example of a PBI report podcast [here](https://github.com/FranGenoa/DataToDialogue/blob/main/Assets/Data_to_Dialogue_WAV_File_Outcome.mov).
+🎧 Listen to an example of a PBI report podcast [here](https://soundcloud.com/ffgenoa/gpt-41_pbi_report_to_podcast) or download the file from this [link](https://github.com/FranGenoa/DataToDialogue/blob/main/Assets/Data_to_Dialogue_WAV_File_Outcome.mov).
