@@ -7,3 +7,7 @@
 🧠 Explore the code behind the workflow [here](https://github.com/FranGenoa/DataToDialogue/blob/main/Code/DataToDialogueAgenticWorkflow.ipynb).
 
 🎧 Listen to an example of a PBI report podcast [here](https://soundcloud.com/ffgenoa/gpt-41_pbi_report_to_podcast) or download the file from this [link](https://github.com/FranGenoa/DataToDialogue/blob/main/Assets/Data_to_Dialogue_WAV_File_Outcome.mov).
+
+# Added notebook DataToDialogue_DAX_Workflow which uses DAX queries as means to get the data to generate dialogue
+ - Prerequisite the semantic model used by DAX queries must be published to the lakehouse and notebook should have access the model
+ - Lakehouse name and queries are defined in the notebook in cell 13
